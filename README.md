@@ -1,5 +1,6 @@
 # Git Github 練習用
-TEST
+TEST  
 テスト
-練習
+
+練習  
 rebase
